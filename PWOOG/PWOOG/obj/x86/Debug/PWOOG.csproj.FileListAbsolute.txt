@@ -1,0 +1,20 @@
+C:\Users\tausvo\Desktop\byvitya\PWOOG\PWOOG\bin\Debug\PWOOG.exe
+C:\Users\tausvo\Desktop\byvitya\PWOOG\PWOOG\bin\Debug\PWOOG.pdb
+C:\Users\tausvo\Desktop\byvitya\PWOOG\PWOOG\obj\x86\Debug\PWOOG.exe
+C:\Users\tausvo\Desktop\byvitya\PWOOG\PWOOG\obj\x86\Debug\PWOOG.pdb
+C:\Users\tausvo\Desktop\PWOOG\PWOOG\obj\x86\Debug\PWOOG.exe
+C:\Users\tausvo\Desktop\PWOOG\PWOOG\obj\x86\Debug\PWOOG.pdb
+C:\Users\tausvo\Desktop\PWOOG\PWOOG\bin\Debug\PWOOG.exe
+C:\Users\tausvo\Desktop\PWOOG\PWOOG\bin\Debug\PWOOG.pdb
+C:\Users\tausvo\Desktop\PWOOG\PWOOG\obj\x86\Debug\PWOOG.csprojResolveAssemblyReference.cache
+C:\Users\tausvo\Desktop\Новая папка\PWOOG\PWOOG\obj\x86\Debug\PWOOG.exe
+C:\Users\tausvo\Desktop\Новая папка\PWOOG\PWOOG\obj\x86\Debug\PWOOG.pdb
+C:\Users\tausvo\Desktop\Новая папка\PWOOG\PWOOG\bin\Debug\PWOOG.exe
+C:\Users\tausvo\Desktop\Новая папка\PWOOG\PWOOG\bin\Debug\PWOOG.pdb
+C:\Users\tausvo\Desktop\Новая папка\PWOOG\PWOOG\obj\x86\Debug\PWOOG.csprojResolveAssemblyReference.cache
+C:\Users\tausvo\Desktop\byvitya\PWOOG\PWOOG\obj\x86\Debug\PWOOG.csprojResolveAssemblyReference.cache
+D:\byvitya\PWOOG\PWOOG\obj\x86\Debug\PWOOG.exe
+D:\byvitya\PWOOG\PWOOG\obj\x86\Debug\PWOOG.pdb
+D:\byvitya\PWOOG\PWOOG\bin\Debug\PWOOG.exe
+D:\byvitya\PWOOG\PWOOG\bin\Debug\PWOOG.pdb
+D:\byvitya\PWOOG\PWOOG\obj\x86\Debug\PWOOG.csprojResolveAssemblyReference.cache
