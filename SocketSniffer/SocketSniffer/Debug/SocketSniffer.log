@@ -1,0 +1,12 @@
+﻿  WinMain.cpp
+c:\users\tausvo\desktop\byvitya\socketsniffer\socketsniffer\winmain.cpp(62): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+c:\users\tausvo\desktop\byvitya\socketsniffer\socketsniffer\winmain.cpp(105): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+c:\users\tausvo\desktop\byvitya\socketsniffer\socketsniffer\winmain.cpp(124): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+c:\users\tausvo\desktop\byvitya\socketsniffer\socketsniffer\winmain.cpp(125): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(200) : see declaration of 'strtok'
+c:\users\tausvo\desktop\byvitya\socketsniffer\socketsniffer\winmain.cpp(129): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(200) : see declaration of 'strtok'
+  SocketSniffer.vcxproj -> C:\Users\tausvo\Desktop\byvitya\SocketSniffer\Debug\SocketSniffer.exe
